@@ -10,7 +10,6 @@ repos:
     -   id: check-docstring-first
     -   id: check-yaml
     -   id: debug-statements
-    -   id: detect-aws-credentials
     -   id: detect-private-key
 -   repo: https://github.com/PyCQA/isort
     rev: 5.10.1
