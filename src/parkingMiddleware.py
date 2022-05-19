@@ -125,10 +125,6 @@ class ParkingSystem:
             and Color: {vehicle_col}"
         )
 
-    @staticmethod
-    def test():
-        print("passed")
-
     def exit(self, *args, **kwargs):
         import sys
 
